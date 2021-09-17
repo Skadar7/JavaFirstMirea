@@ -1,6 +1,6 @@
-package ru.mirea.task7;
+package ru.mirea.task7.movable;
 
-public class MovableCircle implements Movable{
+public class MovableCircle implements Movable {
     private int radius;
     private MovablePoint center;
 

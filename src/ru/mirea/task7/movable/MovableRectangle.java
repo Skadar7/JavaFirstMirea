@@ -1,6 +1,9 @@
-package ru.mirea.task7;
+package ru.mirea.task7.movable;
 
-public class MovableRectangle implements Movable{
+import ru.mirea.task7.movable.Movable;
+import ru.mirea.task7.movable.MovablePoint;
+
+public class MovableRectangle implements Movable {
     private MovablePoint topLeft ;
     private MovablePoint bottomRight;
 
