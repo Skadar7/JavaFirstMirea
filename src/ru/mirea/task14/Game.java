@@ -4,10 +4,10 @@ import java.util.*;
 
 public class Game {
     public static void main(String[] args) {
-        //withQueue();
-        //withDequeue();
-        //withList();
-        //withStack();
+        withQueue();
+        withDequeue();
+        withList();
+        withStack();
         samDeal();
     }
 
